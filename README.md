@@ -1,2 +1,3 @@
-# RetroPie_SNES_Case
-Files and Instructions for an SNES themed RetroPie Emulator case
+# SNES RetroPie Case
+
+### BOM and Instructions to come...
